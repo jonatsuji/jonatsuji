@@ -1,6 +1,7 @@
 # Hello Community 👋
 
 I'm a WebDev student at **neue Fische** and there'll hopefully be some content on this page over the next weeks!! <br>
+--- <br>
 My main interesstes will be listed in the following unordered list:
 
 - HTML
