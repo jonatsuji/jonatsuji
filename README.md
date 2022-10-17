@@ -7,11 +7,11 @@ My main interesstes will be listed in the following unordered list:
 - CSS
 - JS
 - CyberSecurity
-- Backend in terms of storing and calling data
+- Backend in terms of storing and calling data [^1]
 
 **keep your code safe**:
 
 ![Lock laying on a notebook keyboard](https://images.unsplash.com/photo-1614064642261-3ccbfafa481b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80)
 
 
-[^1]: Test for footnote
+[^1]: even more that is important for creating a beautiful frontend
