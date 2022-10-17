@@ -9,7 +9,7 @@ My main interessts🤓 for coding will be listed in the following unordered list
 - CyberSecurity
 - Backend in terms of storing and calling data [^1]
 
-Other interessts regarding my ==freetime==:
+Other interessts regarding my <mark>freetime</mark>:
 
 1. climbing & bouldering
 2. gaming [^2]
