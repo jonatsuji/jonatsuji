@@ -1,11 +1,11 @@
 # Hello Community 👋
 
-I'm a WebDev student at **neue Fische** and there'll hopefully be some content on this page over the next weeks!! <br>
+I was a WebDev student at **neue Fische** and there'll hopefully be some content on this page in the future!! <br>
 My main interessts🤓 for coding will be listed in the following unordered list:
 
-- HTML
-- CSS
-- JS
+- Styled components
+- JSX
+- API
 - CyberSecurity
 - Backend in terms of storing and calling data [^1]
 
@@ -26,5 +26,5 @@ Other interessts regarding my <mark>freetime</mark>:
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-[^1]: even more that is important for creating a beautiful frontend
+[^1]: even more, that is important for creating a beautiful frontend
 [^2]: PC
